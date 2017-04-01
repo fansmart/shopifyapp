@@ -1,2 +1,0 @@
-# shopifyapp
-tutorial
